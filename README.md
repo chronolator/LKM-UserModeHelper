@@ -51,3 +51,8 @@ Unload the module as root:
 ```
 rmmod usermodehelper
 ```
+
+## References
+Execute shell command in kernel module: https://stackoverflow.com/a/11215691  
+Invoking user-space applications from the kernel: https://developer.ibm.com/articles/l-user-space-apps/  
+Kernel.org call_usermodehelper: https://www.kernel.org/doc/htmldocs/kernel-api/API-call-usermodehelper.html
